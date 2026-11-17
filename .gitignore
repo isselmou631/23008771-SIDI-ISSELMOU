@@ -1,0 +1,27 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environnements virtuels
+venv/
+.venv/
+env/
+
+# Fichiers temporaires
+*.log
+.DS_Store
+Thumbs.db
+
+# Configuration personnelle
+.vscode/
+.idea/
+
+# Secrets
+.env
+
+# Ne pas ignorer les notebooks ni les rapports PDF
