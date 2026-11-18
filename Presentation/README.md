@@ -2,6 +2,6 @@
 
 Ce dossier contient les supports de présentation du projet.
 
-Fichiers attendus :
+Fichiers :
 - presentation.pdf
 - presentation.pptx
